@@ -1,0 +1,95 @@
+@media screen and (max-width: 700px) {
+    .patakykep{
+        margin: auto;
+        margin-right: 10%;
+        position: relative;
+        width: 115%;
+    }
+    .logo{
+        width: 50%;
+        margin-left: 100%;
+    }
+    .patakycim{
+        font-size: 10%;
+        font-family: sigmar;
+        color: white;
+        text-align: center;
+        padding-top: 3%
+    }
+    .navbar  {   
+      flex-direction: column;
+
+    }
+    .navbar a {
+        color: white;
+        padding: 14px 20px;
+        text-decoration: solid;
+        text-align: left;
+    }
+
+ }
+
+ @media screen and (max-width: 1400px) {
+    .patakykep{
+        margin: auto;
+        margin-right: 10%;
+        position: relative;
+        width: 115%;
+    }
+    .logo{
+        width: 110%;
+        margin-left: 100%;
+    }
+    .patakycim{
+        font-size: 80%;
+        font-family: sigmar;
+        color: white;
+        text-align: center;
+        padding-top: 3%
+    }
+ }
+
+
+/*navigációs rész*/
+
+ .navbar a:hover {
+    background-color: #1076A0;
+    color: white;
+}
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    position: sticky;
+}
+.navbar {
+    display: flex;
+    background-color: #0B455C;
+}
+
+header{
+    background-color: #1076A0;
+}
+
+/*Fejléc többi része*/
+.patakykep{
+    margin: auto;
+    margin-right: 10%;
+    position: relative;
+    width: 115%;
+    height: auto;
+
+}
+.logo{
+    max-width: 70%;
+    height: auto;
+    margin-left: 10%;
+}
+.patakycim{
+    font-size: 600%;
+    font-family: sigmar;
+    color: white;
+    text-align: center;
+    padding-top: 3%
+}
