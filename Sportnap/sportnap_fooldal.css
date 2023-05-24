@@ -26,6 +26,11 @@
         text-decoration: solid;
         text-align: left;
     }
+    .nagykep{
+        margin: auto;
+        max-width: 145%;
+        position: relative;
+    }
 
  }
 
@@ -46,6 +51,11 @@
         color: white;
         text-align: center;
         padding-top: 3%
+    }
+    .nagykep{
+        margin: auto;
+        max-width: 145%;
+        position: relative;
     }
  }
 
@@ -92,4 +102,12 @@ header{
     color: white;
     text-align: center;
     padding-top: 3%
+}
+/*törzs rész*/
+.nagykep{
+    margin: auto;
+    max-width: 145%;
+    position: relative;
+    margin-top: 10%;
+    padding-right: 10%;
 }
